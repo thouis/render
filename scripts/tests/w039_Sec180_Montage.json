@@ -1,0 +1,386 @@
+[
+    {
+        "bbox": [
+            0, 
+            25600, 
+            0, 
+            25600
+        ], 
+        "height": 25600, 
+        "layer": 1, 
+        "maxIntensity": 255.0, 
+        "minIntensity": 0.0, 
+        "mipmapLevels": {
+            "0": {
+                "imageUrl": "file:///n/regal/pfister_lab/adisuis/LGNs1/rawMontages/w039_Sec180_Montage/Tile_r1-c1_w039_sec180.tif"
+            }
+        }, 
+        "transforms": [
+            {
+                "className": "mpicbg.trakem2.transform.TranslationModel2D", 
+                "dataString": "0.0 0.0"
+            }
+        ], 
+        "width": 25600
+    }, 
+    {
+        "bbox": [
+            24320, 
+            49920, 
+            0, 
+            25600
+        ], 
+        "height": 25600, 
+        "layer": 1, 
+        "maxIntensity": 255.0, 
+        "minIntensity": 0.0, 
+        "mipmapLevels": {
+            "0": {
+                "imageUrl": "file:///n/regal/pfister_lab/adisuis/LGNs1/rawMontages/w039_Sec180_Montage/Tile_r1-c2_w039_sec180.tif"
+            }
+        }, 
+        "transforms": [
+            {
+                "className": "mpicbg.trakem2.transform.TranslationModel2D", 
+                "dataString": "24320.0 0.0"
+            }
+        ], 
+        "width": 25600
+    }, 
+    {
+        "bbox": [
+            48640, 
+            74240, 
+            0, 
+            25600
+        ], 
+        "height": 25600, 
+        "layer": 1, 
+        "maxIntensity": 255.0, 
+        "minIntensity": 0.0, 
+        "mipmapLevels": {
+            "0": {
+                "imageUrl": "file:///n/regal/pfister_lab/adisuis/LGNs1/rawMontages/w039_Sec180_Montage/Tile_r1-c3_w039_sec180.tif"
+            }
+        }, 
+        "transforms": [
+            {
+                "className": "mpicbg.trakem2.transform.TranslationModel2D", 
+                "dataString": "48640.0 0.0"
+            }
+        ], 
+        "width": 25600
+    }, 
+    {
+        "bbox": [
+            72960, 
+            98560, 
+            0, 
+            25600
+        ], 
+        "height": 25600, 
+        "layer": 1, 
+        "maxIntensity": 255.0, 
+        "minIntensity": 0.0, 
+        "mipmapLevels": {
+            "0": {
+                "imageUrl": "file:///n/regal/pfister_lab/adisuis/LGNs1/rawMontages/w039_Sec180_Montage/Tile_r1-c4_w039_sec180.tif"
+            }
+        }, 
+        "transforms": [
+            {
+                "className": "mpicbg.trakem2.transform.TranslationModel2D", 
+                "dataString": "72960.0 0.0"
+            }
+        ], 
+        "width": 25600
+    }, 
+    {
+        "bbox": [
+            0, 
+            25600, 
+            24320, 
+            49920
+        ], 
+        "height": 25600, 
+        "layer": 1, 
+        "maxIntensity": 255.0, 
+        "minIntensity": 0.0, 
+        "mipmapLevels": {
+            "0": {
+                "imageUrl": "file:///n/regal/pfister_lab/adisuis/LGNs1/rawMontages/w039_Sec180_Montage/Tile_r2-c1_w039_sec180.tif"
+            }
+        }, 
+        "transforms": [
+            {
+                "className": "mpicbg.trakem2.transform.TranslationModel2D", 
+                "dataString": "0.0 24320.0"
+            }
+        ], 
+        "width": 25600
+    }, 
+    {
+        "bbox": [
+            24320, 
+            49920, 
+            24320, 
+            49920
+        ], 
+        "height": 25600, 
+        "layer": 1, 
+        "maxIntensity": 255.0, 
+        "minIntensity": 0.0, 
+        "mipmapLevels": {
+            "0": {
+                "imageUrl": "file:///n/regal/pfister_lab/adisuis/LGNs1/rawMontages/w039_Sec180_Montage/Tile_r2-c2_w039_sec180.tif"
+            }
+        }, 
+        "transforms": [
+            {
+                "className": "mpicbg.trakem2.transform.TranslationModel2D", 
+                "dataString": "24320.0 24320.0"
+            }
+        ], 
+        "width": 25600
+    }, 
+    {
+        "bbox": [
+            48640, 
+            74240, 
+            24320, 
+            49920
+        ], 
+        "height": 25600, 
+        "layer": 1, 
+        "maxIntensity": 255.0, 
+        "minIntensity": 0.0, 
+        "mipmapLevels": {
+            "0": {
+                "imageUrl": "file:///n/regal/pfister_lab/adisuis/LGNs1/rawMontages/w039_Sec180_Montage/Tile_r2-c3_w039_sec180.tif"
+            }
+        }, 
+        "transforms": [
+            {
+                "className": "mpicbg.trakem2.transform.TranslationModel2D", 
+                "dataString": "48640.0 24320.0"
+            }
+        ], 
+        "width": 25600
+    }, 
+    {
+        "bbox": [
+            72960, 
+            98560, 
+            24320, 
+            49920
+        ], 
+        "height": 25600, 
+        "layer": 1, 
+        "maxIntensity": 255.0, 
+        "minIntensity": 0.0, 
+        "mipmapLevels": {
+            "0": {
+                "imageUrl": "file:///n/regal/pfister_lab/adisuis/LGNs1/rawMontages/w039_Sec180_Montage/Tile_r2-c4_w039_sec180.tif"
+            }
+        }, 
+        "transforms": [
+            {
+                "className": "mpicbg.trakem2.transform.TranslationModel2D", 
+                "dataString": "72960.0 24320.0"
+            }
+        ], 
+        "width": 25600
+    }, 
+    {
+        "bbox": [
+            0, 
+            25600, 
+            48640, 
+            74240
+        ], 
+        "height": 25600, 
+        "layer": 1, 
+        "maxIntensity": 255.0, 
+        "minIntensity": 0.0, 
+        "mipmapLevels": {
+            "0": {
+                "imageUrl": "file:///n/regal/pfister_lab/adisuis/LGNs1/rawMontages/w039_Sec180_Montage/Tile_r3-c1_w039_sec180.tif"
+            }
+        }, 
+        "transforms": [
+            {
+                "className": "mpicbg.trakem2.transform.TranslationModel2D", 
+                "dataString": "0.0 48640.0"
+            }
+        ], 
+        "width": 25600
+    }, 
+    {
+        "bbox": [
+            24320, 
+            49920, 
+            48640, 
+            74240
+        ], 
+        "height": 25600, 
+        "layer": 1, 
+        "maxIntensity": 255.0, 
+        "minIntensity": 0.0, 
+        "mipmapLevels": {
+            "0": {
+                "imageUrl": "file:///n/regal/pfister_lab/adisuis/LGNs1/rawMontages/w039_Sec180_Montage/Tile_r3-c2_w039_sec180.tif"
+            }
+        }, 
+        "transforms": [
+            {
+                "className": "mpicbg.trakem2.transform.TranslationModel2D", 
+                "dataString": "24320.0 48640.0"
+            }
+        ], 
+        "width": 25600
+    }, 
+    {
+        "bbox": [
+            48640, 
+            74240, 
+            48640, 
+            74240
+        ], 
+        "height": 25600, 
+        "layer": 1, 
+        "maxIntensity": 255.0, 
+        "minIntensity": 0.0, 
+        "mipmapLevels": {
+            "0": {
+                "imageUrl": "file:///n/regal/pfister_lab/adisuis/LGNs1/rawMontages/w039_Sec180_Montage/Tile_r3-c3_w039_sec180.tif"
+            }
+        }, 
+        "transforms": [
+            {
+                "className": "mpicbg.trakem2.transform.TranslationModel2D", 
+                "dataString": "48640.0 48640.0"
+            }
+        ], 
+        "width": 25600
+    }, 
+    {
+        "bbox": [
+            72960, 
+            98560, 
+            48640, 
+            74240
+        ], 
+        "height": 25600, 
+        "layer": 1, 
+        "maxIntensity": 255.0, 
+        "minIntensity": 0.0, 
+        "mipmapLevels": {
+            "0": {
+                "imageUrl": "file:///n/regal/pfister_lab/adisuis/LGNs1/rawMontages/w039_Sec180_Montage/Tile_r3-c4_w039_sec180.tif"
+            }
+        }, 
+        "transforms": [
+            {
+                "className": "mpicbg.trakem2.transform.TranslationModel2D", 
+                "dataString": "72960.0 48640.0"
+            }
+        ], 
+        "width": 25600
+    }, 
+    {
+        "bbox": [
+            0, 
+            25600, 
+            72960, 
+            98560
+        ], 
+        "height": 25600, 
+        "layer": 1, 
+        "maxIntensity": 255.0, 
+        "minIntensity": 0.0, 
+        "mipmapLevels": {
+            "0": {
+                "imageUrl": "file:///n/regal/pfister_lab/adisuis/LGNs1/rawMontages/w039_Sec180_Montage/Tile_r4-c1_w039_sec180.tif"
+            }
+        }, 
+        "transforms": [
+            {
+                "className": "mpicbg.trakem2.transform.TranslationModel2D", 
+                "dataString": "0.0 72960.0"
+            }
+        ], 
+        "width": 25600
+    }, 
+    {
+        "bbox": [
+            24320, 
+            49920, 
+            72960, 
+            98560
+        ], 
+        "height": 25600, 
+        "layer": 1, 
+        "maxIntensity": 255.0, 
+        "minIntensity": 0.0, 
+        "mipmapLevels": {
+            "0": {
+                "imageUrl": "file:///n/regal/pfister_lab/adisuis/LGNs1/rawMontages/w039_Sec180_Montage/Tile_r4-c2_w039_sec180.tif"
+            }
+        }, 
+        "transforms": [
+            {
+                "className": "mpicbg.trakem2.transform.TranslationModel2D", 
+                "dataString": "24320.0 72960.0"
+            }
+        ], 
+        "width": 25600
+    }, 
+    {
+        "bbox": [
+            48640, 
+            74240, 
+            72960, 
+            98560
+        ], 
+        "height": 25600, 
+        "layer": 1, 
+        "maxIntensity": 255.0, 
+        "minIntensity": 0.0, 
+        "mipmapLevels": {
+            "0": {
+                "imageUrl": "file:///n/regal/pfister_lab/adisuis/LGNs1/rawMontages/w039_Sec180_Montage/Tile_r4-c3_w039_sec180.tif"
+            }
+        }, 
+        "transforms": [
+            {
+                "className": "mpicbg.trakem2.transform.TranslationModel2D", 
+                "dataString": "48640.0 72960.0"
+            }
+        ], 
+        "width": 25600
+    }, 
+    {
+        "bbox": [
+            72960, 
+            98560, 
+            72960, 
+            98560
+        ], 
+        "height": 25600, 
+        "layer": 1, 
+        "maxIntensity": 255.0, 
+        "minIntensity": 0.0, 
+        "mipmapLevels": {
+            "0": {
+                "imageUrl": "file:///n/regal/pfister_lab/adisuis/LGNs1/rawMontages/w039_Sec180_Montage/Tile_r4-c4_w039_sec180.tif"
+            }
+        }, 
+        "transforms": [
+            {
+                "className": "mpicbg.trakem2.transform.TranslationModel2D", 
+                "dataString": "72960.0 72960.0"
+            }
+        ], 
+        "width": 25600
+    }
+]
